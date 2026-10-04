@@ -5,7 +5,9 @@ AI OPs Assignment 3 Submission
 This README file goes through all major submission points.
 
 - Main report can be found as `DA24B012_Report.pdf` in the main directory.
-- Video Submission Link:
+- Video Submission Link: https://drive.google.com/file/d/121_o_qluxG6uqurPTDxXBYxdDefEvTPF/view?usp=sharing
+
+File Structure:
 
 - `spark_clean.py` contains the Spark preprocessing pipeline.
 - `ray_clean.py` contains the equivalent Ray Data pipeline.
