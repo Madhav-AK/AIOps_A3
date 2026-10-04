@@ -4,7 +4,7 @@ AI OPs Assignment 3 Submission
 
 This README file goes through all major submission points.
 
-- Main report can be found as `report.pdf` in the main directory.
+- Main report can be found as `DA24B012_Report.pdf` in the main directory.
 - Video Submission Link:
 
 - `spark_clean.py` contains the Spark preprocessing pipeline.
