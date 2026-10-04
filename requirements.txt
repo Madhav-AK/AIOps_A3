@@ -1,0 +1,5 @@
+pyspark
+ray[data]>=2.46,<3
+pandas
+pyarrow
+numpy

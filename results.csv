@@ -1,0 +1,3 @@
+framework,total_time_seconds,udf_time_seconds,peak_cpu_percent,peak_memory_mb,input_rows,output_rows
+Spark,660.783,392.830,261.5,12645.1,119595677,94001243
+Ray,686.144,316.777,201.0,27039.3,119595677,94001243
